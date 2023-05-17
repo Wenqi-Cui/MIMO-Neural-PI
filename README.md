@@ -2,9 +2,7 @@
 This repository contains source code necessary to reproduce the results presented in the following paper:
 [Reinforcement Learning for Optimal Frequency Control: A Lyapunov Approach](https://arxiv.org/abs/2009.05654)  
 
-Authors: Wenqi Cui and Baosen Zhang  
 
-University of Washington 
 
 
 # Motivation
