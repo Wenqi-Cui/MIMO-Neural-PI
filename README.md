@@ -1,4 +1,4 @@
-# RNN-Based Reinforcement Learninging Framework for Optimal Frequency Control with Stability Guarantee
+# Structured Neural-PI Control with End-to-End Stability and Output Tracking Guarantees
 This repository contains source code necessary to reproduce the results presented in the following paper:
 [Reinforcement Learning for Optimal Frequency Control: A Lyapunov Approach](https://arxiv.org/abs/2009.05654)  
 
