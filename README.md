@@ -11,6 +11,7 @@ We study the optimal control of multiple-input and multiple-output dynamical sys
 
 # Flexible non-linear controller with stability and output tracking guarantees
 Here we show the performance on stablizing inverted pendulum to track the angle of 0.5 rad
+
 https://github.com/Wenqi-Cui/MIMO-Neural-PI/assets/70600351/57330aa0-253e-4b64-9478-789104607d69
 
 By contrast, unstructured neural network fail to stablize the pendulum
